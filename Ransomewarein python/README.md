@@ -1,4 +1,4 @@
-# Pysome
+# Ransomw PY by SASSER
 Python based Ransomware 
 
 Requirements:-
